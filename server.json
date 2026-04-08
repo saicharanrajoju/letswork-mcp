@@ -9,8 +9,8 @@
   },
   "packages": [
     {
-      "registry_type": "pypi",
-      "name": "letswork",
+      "registryType": "pypi",
+      "identifier": "letswork",
       "version": "3.0.0"
     }
   ]
