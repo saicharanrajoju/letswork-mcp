@@ -1,17 +1,20 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.saicharanrajoju/letswork",
-  "version": "3.0.0",
   "description": "Real-time collaborative coding via MCP — two developers, one codebase",
   "repository": {
     "url": "https://github.com/saicharanrajoju/letswork-mcp",
     "source": "github"
   },
+  "version": "3.0.0",
   "packages": [
     {
       "registryType": "pypi",
       "identifier": "letswork",
-      "version": "3.0.0"
+      "version": "3.0.0",
+      "transport": {
+        "type": "stdio"
+      }
     }
   ]
 }
