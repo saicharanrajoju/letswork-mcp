@@ -56,7 +56,7 @@ cd /path/to/your/project
 letswork start
 ```
 
-You'll be asked for your display name, then a session box appears:
+You will be asked for your display name, then a session box appears:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
